@@ -2,7 +2,7 @@
   <div id="app">
     <!-- <IfcRelationsDownloader /> -->
      <!-- <IfcJsonExporter /> -->
-    <AppIFCViewer :URL="'http://localhost:8080/small.ifc'" :META="'http://localhost:8080/properties.json'" highlighId=210682 />
+    <AppIFCViewer />
   </div>
 </template>
 
